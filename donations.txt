@@ -1,3 +1,4 @@
 Usuário: sopa, Valor: R$ 20.00
 Usuário: roba ponta, Valor: R$ 20.00
 Usuário: gui, Valor: R$ 1.00
+Usuário: zezin, Valor: R$ 1.00
