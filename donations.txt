@@ -5,3 +5,4 @@ Usuário: zezin, Valor: R$ 1.00
 Usuário: joao, Valor: R$ 1.00
 Usuário: Coi, Valor: R$ 7.00
 Usuário: Coi, Valor: R$ 7.00
+Usuário: Coi, Valor: R$ 7.00
