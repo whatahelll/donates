@@ -6,3 +6,4 @@ Usuário: joao, Valor: R$ 1.00
 Usuário: Coi, Valor: R$ 7.00
 Usuário: Coi, Valor: R$ 7.00
 Usuário: Coi, Valor: R$ 7.00
+Usuário: CarolineGood, Valor: R$ 10.00
