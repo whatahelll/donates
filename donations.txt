@@ -1,12 +1,1 @@
-Usuário: sopa, Valor: R$ 20.00
-Usuário: roba ponta, Valor: R$ 20.00
-Usuário: gui, Valor: R$ 1.00
-Usuário: zezin, Valor: R$ 1.00
-Usuário: joao, Valor: R$ 1.00
-Usuário: Coi, Valor: R$ 7.00
-Usuário: Coi, Valor: R$ 7.00
-Usuário: Coi, Valor: R$ 7.00
-Usuário: CarolineGood, Valor: R$ 10.00
-Usuário: ManoAdelino12, Valor: R$ 20.00
-Usuário: Coi, Valor: R$ 7.00
-Usuário: Anonimus, Valor: R$ 5.00
+a
